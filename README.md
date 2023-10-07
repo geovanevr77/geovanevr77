@@ -1,6 +1,6 @@
 ### Olá!!! Sou Geovane...
 
-- 🌱 Estudando Html5/Css3/JavaScript/C#
+- 🌱 Software Developer | BackEnd | C# | .NET| Html5/Css3/JavaScript
 - 📫 Contato: geovaneviana.df@gmail.com
 
 <div>
